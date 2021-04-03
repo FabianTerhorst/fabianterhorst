@@ -1,4 +1,4 @@
-![Banner](https://github.com/FabianTerhorst/fabianterhorst/blob/master/Github-Profile-Cover.png)
+![Banner](https://github.com/FabianTerhorst/fabianterhorst/blob/main/Github-Profile-Cover.png)
 
 ### Hi there 👋
 

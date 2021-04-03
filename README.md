@@ -1,3 +1,5 @@
+![Banner](https://github.com/FabianTerhorst/fabianterhorst/blob/master/GitHub-Profile-Cover.jpg)
+
 ### Hi there 👋
 
 <!--
